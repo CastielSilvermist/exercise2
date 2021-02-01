@@ -37,13 +37,18 @@ main {
 	align-items: center;
 }
 
+/*smiley face logo*/
 .logo {
-background-image: url(../imgs/smile.png);
+background-image: url(../imgs/smily.png);
+filter: grayscale(100%);
+background-color: white;
+border-radius: 50%;
 width: 40px;
 height: 40px;
 background-size: 100%;
 }
 
+/*Nav */
 nav ul {
 	list-style: none;
 	padding: 0;
