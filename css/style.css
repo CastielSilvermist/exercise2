@@ -93,3 +93,9 @@ footer {
 .credits {
 	text-align: right;
 }
+
+.joke {
+	font-size: 50px;
+	font-weight: bold;
+	cursor: url(../imgs/cur1.png), auto;
+}
