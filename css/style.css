@@ -14,9 +14,8 @@ img {
 body {
 	display: flex;
 	flex-direction: column;
-	background-color: #4158D0;
-	background-image: linear-gradient(43deg, 
-	#4158D0 0%, #C850C0 46%, #FFCC70 100%);
+	/*background-image: linear-gradient(43deg, 
+	#4158D0 0%, #C850C0 46%, #FFCC70 100%);*/
 	font-family: 'Oswald', sans-serif;
 
 }
@@ -95,30 +94,8 @@ footer {
 }
 
 .joke {
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: bold;
 	cursor: url(../imgs/cur1.png), auto;
 }
 
-/* Jokes*/
-
-
-.jka1 {
-	display: none;
-}
-
-.jk2 {
-	display: none;
-}
-
-.jka2 {
-	display: none;
-}
-
-.jk3 {
-	display: none;
-}
-
-.jka3 {
-	display: none;
-}
